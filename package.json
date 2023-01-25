@@ -1,0 +1,25 @@
+{
+  "name": "portifolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexandreDurazzo/portifolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexandreDurazzo/portifolio/issues"
+  },
+  "homepage": "https://github.com/AlexandreDurazzo/portifolio#readme",
+  "dependencies": {
+    "next": "^13.1.5",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
